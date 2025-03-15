@@ -2,4 +2,4 @@
 Acá van a agregar su nombre:
 Iván Cárdenas,
 Luis Angel Ruiz Dulce,
-Juan David Reina Marquez
+camila Gómez,
